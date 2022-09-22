@@ -3,8 +3,6 @@ This a spider web effect that repels from the cursor when placed on it.
 
 
 
- 🔗  Fill the effect on the website   [routetraverse](https://routetraverse.herokuapp.com
-)
 
 
 🤙🤙
